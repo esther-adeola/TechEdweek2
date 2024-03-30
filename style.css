@@ -1,0 +1,38 @@
+ 
+
+.container{
+    height: 500px;
+    width: 700px;
+    background-color: aquamarine;
+    border-radius: 20px 20px 40px 20px;
+    margin: auto;
+    padding: 5px;
+}
+
+#GetCookies{
+border-radius: 10px;
+background-color: brown;
+width: 150px;
+height: 30px;
+}
+
+#GetCookies:hover{
+    background-color: blue;
+}
+
+#GetUpgrade{
+    border-radius: 10px;
+    background-color: red;
+    width: 150px;
+height: 30px;
+}
+
+#GetUpgrade:hover{
+    background-color: blueviolet;
+}
+.buttons{
+    margin-top: 105px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
